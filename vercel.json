@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/sentry-webhook.js": {
+      "maxDuration": 30
+    }
+  }
+}

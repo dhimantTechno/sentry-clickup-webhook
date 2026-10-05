@@ -1,0 +1,6 @@
+{
+  "name": "sentry-clickup-webhook",
+  "version": "1.0.0",
+  "description": "Sentry to ClickUp webhook - Rayna Tours",
+  "type": "module"
+}
